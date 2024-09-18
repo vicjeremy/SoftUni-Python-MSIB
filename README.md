@@ -6,98 +6,64 @@ Studi Independen - MSIB Batch 7
 9 September 2024 - 31 Desember 2024
 
 ## Programming Basics with Phyton (ID)
-- [x] [First Steps in Coding - Lab (ID)](https://colab.research.google.com/drive/1xc2xsgi5TVr8AB5zuzupk3QXiUEQW8v_?usp=sharing)
+- [x] First Steps in Coding (ID) [Lab](https://colab.research.google.com/drive/1xc2xsgi5TVr8AB5zuzupk3QXiUEQW8v_?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1uDc_i74sqRajxOJrCl7csmY8LFX6_fjT?usp=sharing)
 
-- [x] [First Steps in Coding - Exercise (ID)](https://colab.research.google.com/drive/1uDc_i74sqRajxOJrCl7csmY8LFX6_fjT?usp=sharing)
+- [x] Conditional Statements (ID) [Lab](https://colab.research.google.com/drive/14s5_ifl951_OzHVQTPRJoTA2e00S4mry?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1aBux9G9VvmGGLydYv8zNgzmfuXvqFsyM?usp=sharing)
 
-- [x] [Conditional Statements - Lab (ID)](https://colab.research.google.com/drive/14s5_ifl951_OzHVQTPRJoTA2e00S4mry?usp=sharing)
+- [x] [Conditional Statements Advanced (ID) [Lab](https://colab.research.google.com/drive/1gz2rY_RSKu20c2ClNv5QPwSqwTkuB95e?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1J1T5FMuxhWYR0XJTU3qSCgEIk_dpNz_W?usp=sharing)
 
-- [x] [Conditional Statements - Exercise (ID)](https://colab.research.google.com/drive/1aBux9G9VvmGGLydYv8zNgzmfuXvqFsyM?usp=sharing)
+- [x] For Loop (ID) [Lab](https://colab.research.google.com/drive/1bljcgujM5MkufA0DoiCiK5SQbEqeOQig?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1fWbAN1W9CDmNJF5Df9oq6KP-iUs22iVB?usp=sharing)
 
-- [x] [Conditional Statements Advanced - Lab (ID)](https://colab.research.google.com/drive/1gz2rY_RSKu20c2ClNv5QPwSqwTkuB95e?usp=sharing)
+- [x] While Loop (ID) [Lab](https://colab.research.google.com/drive/1rGtJ47PcOTuNRQhMn7LEh_UmnaiLHL7l?usp=sharing) - Exercixe
 
-- [x] [Conditional Statements Advanced - Exercise (ID)](https://colab.research.google.com/drive/1J1T5FMuxhWYR0XJTU3qSCgEIk_dpNz_W?usp=sharing)
+- [x] Nested Loops (ID) Lab - Exercise
 
-- [x] [For Loop - Lab (ID)](https://colab.research.google.com/drive/1bljcgujM5MkufA0DoiCiK5SQbEqeOQig?usp=sharing)
-
-- [x] [For Loop - Exercise (ID)](https://colab.research.google.com/drive/1fWbAN1W9CDmNJF5Df9oq6KP-iUs22iVB?usp=sharing)
-
-- [x] [While Loop - Lab (ID)](https://colab.research.google.com/drive/1rGtJ47PcOTuNRQhMn7LEh_UmnaiLHL7l?usp=sharing)
-
-- [x] While Loop - Exercise (ID)
-
-- [x] Nested Loops - Lab (ID)
-
-- [x] Nested Loops - Exercise (ID)
-
-- [x] Exam Preparation (ID)
+- [x] [Exam Preparation (ID)](https://colab.research.google.com/drive/1YkOfBZhaVUt6aNKDgGcBKNbskTA__KMX?usp=sharing)
 
 - [x] [Preliminary - Programming Basics with Python (Indonesia) - 11 September 2024](https://colab.research.google.com/drive/1R-6zJuGMYJDx8aWK_OZ0HqrAu2dDN22-?usp=sharing)
 
 - [x] [Final - Programming Basics with Python (Indonesia) - 12 September 2024](https://colab.research.google.com/drive/1yxgUoF1Gdo4mFZlZZmgqrcQZzKdBnEUC?usp=sharing)
 
 ## Programming Fundamentals Python (ID)
-- [ ] Language Comparison
+- [x] Language Comparison
 
-- [ ] Basic Syntax, Conditional Statements and Loops - Lab (ID)
+- [x] Basic Syntax, Conditional Statements and Loops (ID) [Lab](https://colab.research.google.com/drive/12QQWRwYnZGcB6XOWW59kZNaAY00KAbLx?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1RZ6rZ3h6bWXNT0CzaafzggVfRvRdJYfy?usp=sharing)
 
-- [ ] Basic Syntax, Conditional Statements and Loops - Exercise (ID)
+- [x] Git and Github
 
-- [ ] Git and Github
+- [x] Data Types and Variables (ID) [Lab](https://colab.research.google.com/drive/1IzKldSJ8GSsp7DZKxD-L4TQhh3vN3UHK?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1BlmYPItjoky_-HZUDA0aUHMc7Cd8bP-g?usp=sharing)
 
-- [ ] Data Types and Variables - Lab (ID)
+- [x] HTTP Basics
 
-- [ ] Data Types and Variables - Exercise (ID)
-
-- [ ] HTTP Basics
-
-- [ ] Lists Basics - Lab (ID)
-
-- [ ] Lists Basics - Exercise (ID)
+- [x] Lists Basics (ID) [Lab](https://colab.research.google.com/drive/19agJFyxPmI2TSkfnf38oI_oM9L0GYJXI?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1aQ82aeOAzSwzDs94ZHDA0rw_lJBzLXu_?usp=sharing) 
 
 - [ ] HTML & CSS Basics
 
-- [ ] Functions - Lab (ID)
-
-- [ ] Functions - Exercise (ID)
+- [ ] Functions (ID) Lab - Exercise
 
 - [ ] Software Development Concepts - Part 1
 
-- [ ] Lists Advanced - Lab (ID)
+- [ ] Lists Advanced (ID) Lab - Exercise 
 
-- [ ] Lists Advanced - Exercise (ID)
+- [ ] Programming Fundamentals Mid Exam Preparation (ID) Python 1 - 2
 
-- [ ] Programming Fundamentals Mid Exam Preparation 1 (ID) Python
-
-- [ ] Programming Fundamentals Mid Exam Preparation 2 (ID) Python
-
-- [ ] Objects and Classes - Lab (ID)
-
-- [ ] Objects and Classes - Exercise (ID)
+- [ ] Objects and Classes (ID) Lab - Exercise
 
 - [ ] Software Development Concepts - Part 2
 
-- [ ] Dictionaries - Lab (ID)
-
-- [ ] Dictionaries - Exercise (ID)
+- [ ] Dictionaries (ID) Lab - Exercise
 
 - [ ] Bitwise Operations
 
-- [ ] Text Processing - Lab (ID)
-
-- [ ] Text Processing - Exercise (ID)
+- [ ] Text Processing (ID) Lab - Exercise
 
 - [ ] Problem Solving
 
-- [ ] Regular Expressions - Lab (ID)
-
-- [ ] Regular Expressions - Exercises (ID)
+- [ ] Regular Expressions (ID) Lab - Exercises
 
 - [ ] Database Basics - Lab (ID)
 
-- [ ] Programming Fundamentals Final Exam Preparation - 1 (ID) Python
-
-- [ ] Programming Fundamentals Final Exam Preparation - 2 (ID) Python
+- [ ] Programming Fundamentals Final Exam Preparation (ID) Python 1 - 2
 
 - [ ] QA Introduction
 

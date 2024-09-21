@@ -37,15 +37,17 @@ Studi Independen - MSIB Batch 7
 
 - [x] Lists Basics (ID) [Lab](https://colab.research.google.com/drive/19agJFyxPmI2TSkfnf38oI_oM9L0GYJXI?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1aQ82aeOAzSwzDs94ZHDA0rw_lJBzLXu_?usp=sharing) 
 
-- [ ] HTML & CSS Basics
+- [x] HTML & CSS Basics
 
-- [ ] Functions (ID) Lab - Exercise
+- [x] Functions (ID) [Lab](https://colab.research.google.com/drive/132MsVA1wrgLewSACaaYJ9Phu5G2MG5lu?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1ADFHp2md8rQHfXhKga80WOBONf7pWaOw?usp=sharing)
+      
+- [x] Software Development Concepts - Part 1
 
-- [ ] Software Development Concepts - Part 1
+- [x] Lists Advanced (ID) [Lab](https://colab.research.google.com/drive/1eLjfZcCHfUEG5NO_-Q-hM1_s0nF5FNcs?usp=sharing) - [Exercise](https://colab.research.google.com/drive/1EsWSlRd6r_RT9iYT2y5o-rCrr56cFHvf?usp=sharing) 
 
-- [ ] Lists Advanced (ID) Lab - Exercise 
+- [x] Programming Fundamentals Mid Exam Preparation (ID) Python [1](https://colab.research.google.com/drive/1VY_EhNr1A1USZz1hPHDCg8ueGWQdlfvE?usp=sharing) - 2
 
-- [ ] Programming Fundamentals Mid Exam Preparation (ID) Python 1 - 2
+- [x] [Mid Exam - Programming Fundamentals with Python (ID) - 20 September 2024](https://colab.research.google.com/drive/1jZK9YMd5IPfwSMpkHY70cCI6I1UPKuUa?usp=sharing)
 
 - [ ] Objects and Classes (ID) Lab - Exercise
 
